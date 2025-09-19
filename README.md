@@ -106,6 +106,7 @@ Based on `REQUIREMENTS.md`, implemented features include:
     GET /transactions/summary
 
 ## 🧪 Running Tests
-  ```bash
-     npm run test
+   ```bash
+   npm run test
+
 
