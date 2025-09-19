@@ -17,25 +17,6 @@ Great for learning backend architecture, sessions, and automated testing.
 
 ---
 
-## 📂 Project Structure
-
-├── src/
-│ ├── routes/ # HTTP routes / controllers
-│ ├── database/ # (or db/) migrations, setup
-│ └── server.ts # Entry point
-├── test/ # Automated tests (Vitest)
-├── db/
-│ └── migrations/ # Knex migrations
-├── knexfile.ts # Knex configuration file
-├── .env.example # Sample environment variables
-├── .env.test.example # Sample env vars for testing
-├── REQUIREMENTS.md # Requisitos / funcionalidades implementadas
-├── package.json
-└── tsconfig.json
-
-
----
-
 ## 🧩 Features / Functionalities
 
 Based on `REQUIREMENTS.md`, implemented features include:
@@ -108,5 +89,6 @@ Based on `REQUIREMENTS.md`, implemented features include:
 ## 🧪 Running Tests
    ```bash
    npm run test
+
 
 
